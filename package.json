@@ -1,0 +1,17 @@
+{
+  "name": "com.danielcumbor.dctools",
+  "version": "1.0.0",
+  "displayName": "DCTools",
+  "description": "A simple collection of my commonly used scripts.",
+  "unity": "2021.3",
+  "unityRelease": "21f1",
+  "author": {
+    "name": "Daniel Cumbor",
+    "email": "dan-dev@proton.me",
+    "url": "https://www.danielcumbor.uk"
+  },
+  "type": "tool",
+  "dependencies": {
+    "com.danielcumbor.uianimator": "1.0.0"
+  }
+}
