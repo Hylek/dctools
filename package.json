@@ -4,7 +4,6 @@
   "displayName": "DCTools",
   "description": "A simple collection of my commonly used scripts/helpers.",
   "unity": "2022.3",
-  "unityRelease": "0",
   "author": {
     "name": "Daniel Cumbor",
     "email": "dan-dev@proton.me",
